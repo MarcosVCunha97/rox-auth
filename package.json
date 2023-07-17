@@ -1,0 +1,11 @@
+{
+  "name": "rox-auth",
+  "version": "1.0.0",
+  "description": "package with functions for authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "marcos-rox",
+  "license": "ISC"
+}
